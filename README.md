@@ -63,6 +63,7 @@ Pour ce faire, on demande à votre équipe de 3 ou 4 de vous référer à l’ap
 ## Ref(s)
 
 - Beaucoup de refferences c'est bien !
+- https://stackoverflow.com/questions/62753648/rpc-failed-http-400-curl-22-the-requested-url-returned-error-400-bad-request
 
 ### Critères d’évaluation
 
