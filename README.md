@@ -1,7 +1,7 @@
 # tp2_41E - Communication Web
 
 > Pondération : 5%
-> Seance #9
+> Remise : Seance #9
 
 # Instructions
 
